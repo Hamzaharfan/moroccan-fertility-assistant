@@ -1,0 +1,7 @@
+{
+  "name": "Moroccan Fertility Assistant",
+  "description": "An AI assistant specialized in delayed childbearing, infertility, and pregnancy issues, offering advice based on Moroccan traditional and modern medicine.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
